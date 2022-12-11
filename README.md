@@ -44,3 +44,4 @@ Above 1750ms RC pulse will emulate a button press, to change pattern and/or colo
 
 Last pattern and color used are saved in EEPROM and will be restored at next power up.
 
+Schematic and PCB files are for reference only, not tested yet (only built on proto board as per picture).
